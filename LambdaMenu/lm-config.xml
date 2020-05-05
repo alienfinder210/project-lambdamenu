@@ -8,7 +8,7 @@
     -->
 
 			<!--Menu Controls-->   
-    <key function="toggle_main_menu" value="VK_F1"/> 
+    <key function="toggle_main_menu" value="VK_KEY_X"/> 
     <key function="menu_up" value="VK_NUMPAD8"/> 
     <key function="menu_down" value="VK_NUMPAD2"/> 
     <key function="menu_left" value="VK_NUMPAD4"/> 
@@ -19,7 +19,7 @@
     <!--NoClip Controls-->
     <key function="toggle_noclip" value="VK_F2"/> 
     <key function="noclip_up" value="VK_KEY_Q"/> 
-    <key function="noclip_down" value="VK_KEY_Z"/> 
+    <key function="noclip_down" value="VK_KEY_K"/> 
     <key function="noclip_forward" value="VK_KEY_W"/> 
     <key function="noclip_back" value="VK_KEY_S"/> 
     <key function="noclip_rotate_left" value="VK_KEY_A"/> 
